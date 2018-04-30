@@ -1,0 +1,8 @@
+{
+  "name": "Lk's Destroyer",
+  "version": "1.0.0",
+  "description": "Destroys worms",
+  "main": "bot.js",
+  "author": "lolking4045",
+  "dependencies": {}
+}
